@@ -1,0 +1,40 @@
+antony,delantero,manchester united,200
+lisandro martinez,defensa,manchester united,100
+tyrell malacia,defensa,manchester united,120
+harry maguire,defensa,manchester united,75
+marcus rashford,delantero,manchester united,160
+bruno borges,mediocampista,manchester united,130
+david de gea,arquero,manchester united,210
+cristiano ronaldo,delantero,manchester united,250
+federico rodrigues,mediocampista,manchester united,150
+lionel messi,delantero,paris,250
+kylian mbappe,delantero,paris,220
+neymar,delantero,paris,225
+sergio ramos,defensa,paris,205
+vitor ferreira,mediocampista,paris,200
+keylor navas,arquero,paris,230
+fabian ruiz,mediocampista,paris,179
+robert lewandowski,delantero,barcelona,240
+jules kounde,defensa,barcelona,180
+pedri,mediocampista,barcelona,200
+gerard pique,defensa,barcelona,210
+jordi alba,defensa,barcelona,200
+marc-andreter,arquero,barcelona,205
+sergi roberto,defensa,barcelona,210
+iñaki peña,arquero,barcelona,180
+simon mignolet,arquero,brujas,240
+manuel neuer,arquero,bayer munich,230
+ederson,arquero,man city,220
+kepa,arquero,chelsea,215
+thiago silva,defensa,chelsea,190
+reece james,mediocampista,chelsea,195
+ruben dias,defensa,manchester city,230
+joao cancelo,defensa,manchester city,225
+jurrien timber,defensa,ajax,220
+nuno mendes,defensa,paris,225
+joe gomez,defensa,liverpool,200
+luis diaz,delantero,liverpool,210
+dani parejo,mediocampista,villareal,220
+cole palmer,mediocampista,manchester city,200
+curtis jones,mediocampista,liverpool,190
+fabio carvalho,mediocampista,liverpool,180

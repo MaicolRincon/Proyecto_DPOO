@@ -1,0 +1,2 @@
+16,Octubre,2022,03:00pm,paris,liverpool
+18,Diciembre,2022,04:00pm,colombia,venezuela
