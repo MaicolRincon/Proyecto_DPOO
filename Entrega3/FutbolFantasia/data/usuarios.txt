@@ -1,3 +1,0 @@
-maicol,123,true
-maicol2,123,false
-maicol3,123,false
